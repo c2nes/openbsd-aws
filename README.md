@@ -29,6 +29,9 @@
 
 8. Build,
 
+        $ cd ../special
+        $ doas make
+        $ cd ../amd64
         $ doas make
 
 9. Success,

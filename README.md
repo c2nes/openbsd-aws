@@ -55,5 +55,5 @@ Create ramdisk
 
 9. Success,
 
-        $ ls ramdisk_cd/obj/miniroot.fs
+        $ ls ramdisk_cd/obj/miniroot60.fs
 
